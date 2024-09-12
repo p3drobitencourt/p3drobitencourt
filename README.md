@@ -1,8 +1,8 @@
 ## Olá Eu sou o Pedro Bitencourt
 
-- 🔭 Hoje estou cursando Bacharelo de Sistemas de Informação ...
-- 🌱 Estudando HTML, CSS e Javascript...
-- 💬 Me chame no email: pedro.b1tencourt2801@gmail.com ...
+- 🔭 Hoje estou cursando Bacharelo de Sistemas de Informação 
+- 🌱 Estudando HTML, CSS e Javascript
+- 💬 Me chame no email: pedro.b1tencourt2801@gmail.com 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p3drobitencourt&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
