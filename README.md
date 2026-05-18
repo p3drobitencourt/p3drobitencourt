@@ -11,18 +11,14 @@ Bacharelando em Sistemas de Informação. Foco no desenvolvimento FullStack e im
 
 ## 🔬 Pesquisa e Desenvolvimento
 
-- 🚧 **[WIP] TCC - Tokenização de Ativos & Smart Contracts:** Desenvolvimento teórico e técnico de plataforma para intermediação de transações comerciais na cadeia de suprimentos do café via Blockchain. *(Em desenvolvimento).*
+- 🚧 TCC - Tokenização de Ativos & Smart Contracts:** Desenvolvimento teórico e técnico de plataforma para intermediação de transações comerciais na cadeia de suprimentos do café via Blockchain. *Em breve... *
 
 ## 📦 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/p3drobitencourt/Sarca_ArdentelBM">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=p3drobitencourt&repo=Sarca_ArdentelBM&theme=dark"/>
-  </a>
-  <a href="https://github.com/p3drobitencourt/pimbastic_esports">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=p3drobitencourt&repo=pimbastic_esports&theme=dark"/>
-  </a>
-</div>
+| Projeto | Domínio/Stack | Link |
+| :--- | :--- | :--- |
+| **Sarca_ArdenteIBM** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | [🔗 Repositório](https://github.com/p3drobitencourt/Sarca_ArdenteIBM) |
+| **Pimbastic Esports** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [🔗 Repositório](https://github.com/p3drobitencourt/pimbastic_esports) |
 
 ## 🌐 Conectividade
 
