@@ -1,25 +1,27 @@
 # Pedro Bitencourt 
 
-Bacharelando em Sistemas de Informação. Foco no desenvolvimento FullStack e implementação de tecnologias descentralizadas para otimização de cadeias de suprimentos.
+Bacharelando em Sistemas de Informação. Foco no desenvolvimento FullStack e implementação de tecnologias descentralizadas.
 
-## ⚙️ Core Stack & Tecnologias
+## ⚙️ Core Stack 
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🔬 Pesquisa e Desenvolvimento
 
-- ⛓️ **Blockchain & Smart Contracts:** Desenvolvimento teórico e técnico de plataformas para intermediação de transações comerciais.
-- 🌾 **Tokenização de Ativos:** Otimização técnica de processos comerciais na cadeia de suprimentos agrícola (foco no ecossistema cafeeiro).
+- 🚧 **[WIP] TCC - Tokenização de Ativos & Smart Contracts:** Desenvolvimento teórico e técnico de plataforma para intermediação de transações comerciais na cadeia de suprimentos do café via Blockchain. *(Em desenvolvimento).*
 
-## 📊 Analytics
+## 📦 Projetos em Destaque
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p3drobitencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3drobitencourt&layout=compact&theme=dark"/>
+  <a href="https://github.com/p3drobitencourt/Sarca_ArdentelBM">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=p3drobitencourt&repo=Sarca_ArdentelBM&theme=dark"/>
+  </a>
+  <a href="https://github.com/p3drobitencourt/pimbastic_esports">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=p3drobitencourt&repo=pimbastic_esports&theme=dark"/>
+  </a>
 </div>
 
 ## 🌐 Conectividade
