@@ -1,23 +1,28 @@
-## Olá Eu sou o Pedro Bitencourt
+# Pedro Bitencourt 
 
-- 🔭 Hoje estou cursando Bacharelo de Sistemas de Informação 
-- 🌱 Estudando HTML, CSS e Javascript
-- 💬 Me chame no email: pedro.b1tencourt2801@gmail.com 
+Bacharelando em Sistemas de Informação. Foco no desenvolvimento FullStack e implementação de tecnologias descentralizadas para otimização de cadeias de suprimentos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p3drobitencourt&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## ⚙️ Core Stack & Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🔬 Pesquisa e Desenvolvimento
+
+- ⛓️ **Blockchain & Smart Contracts:** Desenvolvimento teórico e técnico de plataformas para intermediação de transações comerciais.
+- 🌾 **Tokenização de Ativos:** Otimização técnica de processos comerciais na cadeia de suprimentos agrícola (foco no ecossistema cafeeiro).
+
+## 📊 Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p3drobitencourt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3drobitencourt&layout=compact&theme=dark"/>
 </div>
-  
-  ##
- 
-<div>
-  <a href = "mailto:pedro.b1tencourt2801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/-pedrobitencourt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
+## 🌐 Conectividade
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.b1tencourt2801@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-pedrobitencourt)
